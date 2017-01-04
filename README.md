@@ -12,16 +12,3 @@ cmake .. -G"Visual Studio 10 2010" or cmake .. -G"Visual Studio 11 2012"
 or 
 cmake .. -G"MinGW Makefiles"  
 ```
-### Test
-<div>
-    <table border="0">
-	  <tr>
-	    <th>one</th>
-	    <th>two</th>
-	  </tr>
-	  <tr>
-	    <td>Hello</td>
-	    <td>你好</td>
-	  </tr>
-	</table>
-</div>
